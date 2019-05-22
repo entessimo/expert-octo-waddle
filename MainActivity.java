@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         tV1 = findViewById(R.id.tV1);
         tV2 = findViewById(R.id.tV2);
         tV3 = findViewById(R.id.tV3);
-
+//du findest diese Zeile eh nie
     }
 
     public void save (View v) {
